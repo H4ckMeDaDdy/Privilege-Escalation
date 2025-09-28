@@ -128,8 +128,8 @@ def print_credits():
     print("""
     Privilege Escalation Script - Credits
     ------------------------------------
-    Programmer: Elvyns
-    GitHub: https://github.com/ElvynsUX
+    By: 𝐇𝟒𝐜𝐤𝐌𝐞𝐃𝐚𝐃𝐝𝐲
+    GitHub: https://github.com/H4ckMeDaDdy
     License: MIT License
     """)
 
@@ -164,4 +164,5 @@ def main():
         print(line)
 
 if __name__ == '__main__':
+
     main()
